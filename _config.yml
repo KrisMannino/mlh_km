@@ -22,7 +22,7 @@ title: Kris Mannino
 email: KrisMannino@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The official website of Kris Mannino. Student at Winston Salem State University (WSSU) and all around great guy. Check out the projects I have done, and what is in the pipeline.
-baseurl: "mlh_km" # the subpath of your site, e.g. /blog
+baseurl: "krismannino.com" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: krismunny
 github_username:  krismannino
